@@ -27,7 +27,7 @@ int main() {
     printf("Pontos turísticos 2: %d\n", Pontosturisticos2);
 
     // Fazendo as comparações
-    printf("Qual a maior População?\n");
+    printf("Qual estado tem a maior População?\n");
     if (Populacao1 > Populacao2) {
         printf("A população do estado 1 é maior que a do estado 2\n");
     } else if (Populacao1 < Populacao2) {
